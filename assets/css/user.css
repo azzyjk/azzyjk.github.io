@@ -1,0 +1,11 @@
+/* User made css */
+img.userIcon {
+  width: 40px;
+  height: auto;
+  margin-right: 30px;
+}
+
+img.userPict {
+  width: 200px;
+  height: auto;
+}
