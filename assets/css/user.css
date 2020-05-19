@@ -6,6 +6,30 @@ img.userIcon {
 }
 
 img.userPict {
-  width: 200px;
+  width: 300px;
   height: auto;
+  margin-bottom: 10px;
+}
+
+p.comp {
+  margin: 0 0 0rem 0;
+}
+.content p .comp {
+  margin: 0 0 0rem 0;
+}
+
+ul.userUl {
+  list-style: none;
+}
+
+.awards .userHref {
+  border-bottom: none;
+}
+
+.awards .userImg {
+  width: 244px;
+}
+
+.awards .userAward {
+  margin-left: 30px;
 }
