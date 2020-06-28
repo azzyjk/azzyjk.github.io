@@ -1,10 +1,11 @@
 # Site
 name: "Memoirs"
 title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+description: "azzyjk's dev diary"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: "https://azzyjk.github.io/"
+# url: "https://azzyjk.github.io"
+baseurl: /jekyll-theme-memoirs # "https://azzyjk.github.io/"
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -14,9 +15,9 @@ email: wowthemesnet@gmail.com
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
+  JJW:
+    name: JeongJunwon
+    display_name: azzyjk
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: wowthemesnet@gmail.com
     web: https://www.wowthemes.net/donate/
