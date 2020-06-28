@@ -1,0 +1,22 @@
+/* User defined */
+
+ul.feature-icons{
+	display: flex;
+	flex-wrap: wrap;
+	list-style: none;
+	margin: 3rem 0;
+	padding-left: 0;
+}
+
+ul.feature-icons li{
+	margin: 2.5rem 0 0 0;
+	padding: 0.5rem 0 0 4.5rem;
+	position: relative;
+	width: 50%;
+}
+
+.userIcon{
+	width: 50px;
+	height: auto;
+	margin-right: 30px;
+}
