@@ -95,3 +95,8 @@ p.title {
 .userMade a {
   border-bottom: 1px dashed black;
 }
+
+.blogPict {
+  width: 50%;
+  height: 50%;
+}
