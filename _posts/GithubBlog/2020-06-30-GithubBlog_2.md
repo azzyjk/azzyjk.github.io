@@ -50,8 +50,10 @@ vendor/bundle
 이후 해당 파일들을 Github 올려주기 위해 git으로 올려준다.
 
 ```javascript
+
 cd 해당 폴더
 git commit
+
 ```
 
 ```c

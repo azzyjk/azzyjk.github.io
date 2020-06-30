@@ -5,8 +5,8 @@ description: "azzyjk's dev diary"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 # url: "https://azzyjk.github.io"
-# baseurl: /jekyll-theme-memoirs
-baseurl: 'https://azzyjk.github.io/'
+baseurl: /jekyll-theme-memoirs
+# baseurl: 'https://azzyjk.github.io/'
 google_analytics: 'UA-xxxxxxxx-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
@@ -59,10 +59,16 @@ paginate_path: /page:num/
 markdown: kramdown
 highlighter: rouge
 kramdown:
+  syntax_highlighter: rouge
   input: GFM
   syntax_highlighter_opts:
     default_lang: html
-    css_class   : 'syntax'
+    css_class: 'highlight'
+    # span:
+    #   line_numbers: false
+    # block:
+    #   line_numbers: true
+    #   start_line: 1
 
 # Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
 adsense: 'disabled'
