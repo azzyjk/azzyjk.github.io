@@ -1,12 +1,12 @@
 # Site
-name: 'Mediumish'
-title: 'Mediumish'
-description: "azzyjk's dev diary"
+name: 'azzyjk의 Dev Note'
+title: 'azzyjk의 개발 일기'
+description: "azzyjk's dev note"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 # baseurl: /mediumish-theme-jekyll
 baseurl: 'https://azzyjk.github.io'
-google_analytics: 'UA-46278016-1'
+google_analytics: 'UA-171557469-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ['_pages']
