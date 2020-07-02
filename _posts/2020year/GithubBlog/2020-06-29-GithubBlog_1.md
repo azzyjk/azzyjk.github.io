@@ -25,19 +25,19 @@ Github repository 생성을 통해 나만의 페이지 만들기
 
 Github blog를 만들기전에 먼저 repository를 생성해주어야 한다.
 
-<img class="blogPict" src="assets/images/picture/GithubBlog/Github_1.png">
+<img class="blogPict" src="/assets/images/picture/GithubBlog/Github_1.png">
 
 위와 같이 repository name을 `[본인의 id].github.io`로 해서 생성해주면 된다.
 
 ## repository clone
 
-<img class="blogPict" src="assets/images/picture/GithubBlog/Github_2.png">
+<img class="blogPict" src="/assets/images/picture/GithubBlog/Github_2.png">
 
 그 다음 해당 repository로 들어가 clone 버튼을 누른 후 해당 사이트를 복사해 준다.
 
 이후 Terminal 창에서 `git clone [복사한 주소]` 를 통해 해당 repository를 가져온다.  
 아래와 같이 폴더가 생긴걸 확인 할 수 있다.
 
-<img class="blogPict" src="assets/images/picture/GithubBlog/Github_3.png">
+<img class="blogPict" src="/assets/images/picture/GithubBlog/Github_3.png">
 
 다음에서는 테마를 다운받고 Github에 올리는 것과 테스트하는법에 대해 적어보겠다.

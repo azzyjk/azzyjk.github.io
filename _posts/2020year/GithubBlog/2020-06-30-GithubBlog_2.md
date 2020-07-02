@@ -25,12 +25,12 @@ Github blog를 만들때 나는 Jekyll에서 이미 만들어진 테마를 이�
 이렇게하면 시간도 단축되고 보기도 이쁘다.  
 [Jekyll 테마 다운로드](http://jekyllthemes.org/)
 
-<img class="blogPict" src="assets/images/picture/GithubBlog/Jekyll_1.png">
+<img class="blogPict" src="/assets/images/picture/GithubBlog/Jekyll_1.png">
 
 해당 사이트에 들어가면 여러 테마들이 있는데 그 중 원하는 테마를 다운받으면 된다.  
 나는 젤 앞에 보이는 `Memoirs Jekyll Theme`를 사용하였다.
 
-<img class="blogPict" src="assets/images/picture/GithubBlog/Jekyll_2.png">
+<img class="blogPict" src="/assets/images/picture/GithubBlog/Jekyll_2.png">
 
 원하는 테마를 클릭 후 Download 해준다.
 
@@ -38,7 +38,7 @@ Github blog를 만들때 나는 Jekyll에서 이미 만들어진 테마를 이�
 
 Download 후 압축을 풀면 아래와 같이 여러 파일들이 나오는데 이를 전에 clone해준 폴더에 넣어주면 된다.
 
-<img class="blogPict" src="assets/images/picture/GithubBlog/Jekyll_3.png">
+<img class="blogPict" src="/assets/images/picture/GithubBlog/Jekyll_3.png">
 
 ## bundler 설치 및 실행
 
@@ -99,6 +99,6 @@ git push
 
 이후 `azzyjk.github.io`와 같이 `해당 repository 이름`으로 접속하면 사이트가 뜨는 것을 볼 수 있다.
 
-<img class="blogPict" src="assets/images/picture/GithubBlog/Githubblog_1.png">
+<img class="blogPict" src="/assets/images/picture/GithubBlog/Githubblog_1.png">
 
 [Github으로 나만의 블로그 만들기 - 1](../GithubBlog_1)

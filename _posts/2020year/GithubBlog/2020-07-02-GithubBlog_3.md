@@ -56,7 +56,7 @@ Configuration file: /Users//Desktop/Code/azzyjk.github.io/_config.yml
 
 이후 브라우저를 열어 `localhost:4000` 또는 `127.0.0.1:4000`을 입력해준다.
 
-<img class="blogPict" src="assets/images/picture/GithubBlog/Githubblog_2.png">
+<img class="blogPict" src="/assets/images/picture/GithubBlog/Githubblog_2.png">
 
 해당 페이지가 잘 뜨는것을 볼 수 있다.  
 이제 실시간으로 local에서 페이지를 수정하여 새로고침하여 보고 수정이 완료되었을 때 Github에 commit해주면 된다.
