@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Introduce azzyjk
-permalink: /about2
+permalink: /about
 comments: false
 ---
 
@@ -26,7 +26,7 @@ comments: false
             <li class="icon solid"><a href="#python"><img class="userIcon" src=".\images\picture\python/python.png">Python</a></li>
             <li class="icon solid"><a href="#arduino"><img class="userIcon" src=".\images\picture\arduino\arduino.png">Arduino</a></li>
             <li class="icon solid"><a href="#C"><img class="userIcon" src=".\images\picture\c\c.png">C</a></li>
-            <li class="icon solid"><a href="#Cpp"><img class="userIcon" src=".\images\picture\cpp\cpp.png"> C++</a></li>
+            <li class="icon solid"><a href="#C++"><img class="userIcon" src=".\images\picture\cpp\cpp.png"> C++</a></li>
             <li class="icon solid"><a href="#JS"><img class="userIcon" src=".\images\picture\javascript\javascript.png"> Javascript</a></li>
         </ul>
         <p>저는 위와 같은 프로그래밍 언어의 관심이 있습니다.</p>
@@ -117,7 +117,7 @@ comments: false
             </div>
         </section>
         <!-- Section -->
-        <section id="Cpp">
+        <section id="C++">
             <header>
                 <h3>C++</h3>
             </header>
