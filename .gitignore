@@ -10,3 +10,4 @@ _site/
 # Bundler 가 생성한 폴더 무시
 .bundle/
 vendor/bundle
+_posts/2020-00-00-Form.md
