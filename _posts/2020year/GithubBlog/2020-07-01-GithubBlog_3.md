@@ -3,7 +3,7 @@ layout: post
 title: GitHub으로 나만의 블로그 만들기 3 - jekyll bundler를 이용하여 블로그 수정하기
 author: JJW
 categories: [Github]
-tags: [Blog, jekyll]
+tags: [Blog, Jekyll]
 image: assets/images/picture/GithubBlog/Githubblog_2.png
 date: 2020-07-01 12:00:00
 lastmod: 2020-07-01 12:00:00
@@ -66,5 +66,5 @@ Configuration file: /Users//Desktop/Code/azzyjk.github.io/_config.yml
 해당 페이지가 잘 뜨는것을 볼 수 있다.  
 이제 실시간으로 local에서 페이지를 수정하여 새로고침하여 보고 수정이 완료되었을 때 Github에 commit해주면 된다.
 
-[Github으로 나만의 블로그 만들기 - 1](../GithubBlog_1)  
-[Github으로 나만의 블로그 만들기 - 2](../GithubBlog_2)
+[Github Blog 1 - 블로그 생성을 위한 repository 생성](../GithubBlog_1)  
+[Github Blog 2 - Jekyll themes를 이용해 블로그 페이지 꾸미기](../GithubBlog_2)

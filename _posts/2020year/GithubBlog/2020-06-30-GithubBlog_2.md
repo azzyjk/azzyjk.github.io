@@ -3,7 +3,7 @@ layout: post
 title: GitHub으로 나만의 블로그 만들기 2 - Jekyll themes를 이용해 블로그 페이지 꾸미기
 author: JJW
 categories: [Github]
-tags: [Blog, jekyll]
+tags: [Blog, Jekyll]
 image: assets/images/picture/GithubBlog/Jekyll_1.png
 date: 2020-06-30 12:00:00
 lastmod: 2020-06-30 12:00:00
@@ -32,8 +32,11 @@ Github blog를 만들때 나는 Jekyll에서 이미 만들어진 테마를 이�
 
 <img class="blogPict" src="/assets/images/picture/GithubBlog/Jekyll_1.png">
 
-해당 사이트에 들어가면 여러 테마들이 있는데 그 중 원하는 테마를 다운받으면 된다.  
-나는 젤 앞에 보이는 `Memoirs Jekyll Theme`를 사용하였다.
+해당 사이트에 들어가면 여러 테마들이 있는데 그 중 원하는 테마를 다운받으면 된다.
+
+나는 젤 앞에 보이는 ~~Memoirs Jekyll Theme~~를 사용하였다.
+
+(현재 나의 테마는 [`Mediumish`](https://jekyllthemes.io/theme/mediumish)로 `Memoirs` 테마는 내가 원하는대로 syntax highlighter를 변경할 수 없는것으로 보여 변경했다.)
 
 <img class="blogPict" src="/assets/images/picture/GithubBlog/Jekyll_2.png">
 
@@ -57,7 +60,7 @@ gem install bundler
 이후 `bundle install`을 통해 필요한 파일들을 다운 받아주어야 한다.
 
 ```sh
-cd (블로그 repository)
+cd '블로그 폴더 경로'
 bundle install
 ```
 
@@ -106,4 +109,4 @@ git push
 
 <img class="blogPict" src="/assets/images/picture/GithubBlog/Githubblog_1.png">
 
-[Github으로 나만의 블로그 만들기 - 1](../GithubBlog_1)
+[GitHub Blog 1 - 블로그 생성을 위한 repository 생성](../GithubBlog_1)
