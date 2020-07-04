@@ -4,7 +4,7 @@ title: GitHub으로 나만의 블로그 만들기 6 - Disqus를 이용하여 블
 author: JJW
 categories: [Github]
 tags: [Blog, Jekyll]
-image: assets/images/picture/GithubBlog/SearchConsole_1.png
+image: assets/images/picture/GithubBlog/Disqus_9.png
 date: 2020-07-04 01:48:00
 lastmod: 2020-07-04 01:48:00
 sitemap:
