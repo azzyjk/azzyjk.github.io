@@ -22,12 +22,12 @@ comments: false
     </header>
     <div class="content">
         <ul class="feature-icons">
-            <li class="icon solid"><a href="#reactNative"><img class="userIcon" src=".\images\picture\reactNative/react.png"> reactNative</a></li>
-            <li class="icon solid"><a href="#python"><img class="userIcon" src=".\images\picture\python/python.png">Python</a></li>
-            <li class="icon solid"><a href="#arduino"><img class="userIcon" src=".\images\picture\arduino\arduino.png">Arduino</a></li>
-            <li class="icon solid"><a href="#C"><img class="userIcon" src=".\images\picture\c\c.png">C</a></li>
-            <li class="icon solid"><a href="#C++"><img class="userIcon" src=".\images\picture\cpp\cpp.png"> C++</a></li>
-            <li class="icon solid"><a href="#JS"><img class="userIcon" src=".\images\picture\javascript\javascript.png"> Javascript</a></li>
+            <li class="icon solid"><a href="#reactNative"><img class="userIcon" src="/assets/images/picture/reactNative/react.png"> reactNative</a></li>
+            <li class="icon solid"><a href="#python"><img class="userIcon" src="/assets/images/picture/python/python.png">Python</a></li>
+            <li class="icon solid"><a href="#arduino"><img class="userIcon" src="/assets/images/picture/arduino/arduino.png">Arduino</a></li>
+            <li class="icon solid"><a href="#C"><img class="userIcon" src="/assets/images/picture/c/c.png">C</a></li>
+            <li class="icon solid"><a href="#C++"><img class="userIcon" src="/assets/images/picture/cpp/cpp.png"> C++</a></li>
+            <li class="icon solid"><a href="#JS"><img class="userIcon" src="/assets/images/picture/javascript/javascript.png"> Javascript</a></li>
         </ul>
         <p>저는 위와 같은 프로그래밍 언어의 관심이 있습니다.</p>
     </div>
@@ -47,13 +47,13 @@ comments: false
                     <!-- <h4>진행중</h4> -->
                     <h4>진행중</h4>
                     <p class="title">코로나 알리미 앱 제작</p>
-                    <a href="https://github.com/azzyjk/COVID19"><img class="userPict" src="images/picture/reactNative/COVID19.png"  alt="" /></a>
+                    <a href="https://github.com/azzyjk/COVID19"><img class="userPict" src="/assets/images/picture/reactNative/COVID19.png"  alt="" /></a>
                     <h4>완료</h4>
                     <p>2020년</p>
                     <p class="title">To Do List 앱 제작</p>
-                    <a href="https://github.com/azzyjk/React-Native/tree/master/TodoList"><img class="userPict" src="images/picture/reactNative/toDo.png"  alt="" /></a>
+                    <a href="https://github.com/azzyjk/React-Native/tree/master/TodoList"><img class="userPict" src="/assets/images/picture/reactNative/toDo.png"  alt="" /></a>
                     <p class="title">Get Weather 앱 제작</p>
-                    <a href="https://github.com/azzyjk/React-Native/tree/master/getWeather"><img class="userPict" src="images/picture/reactNative/getWeather.png"  alt="" /></a>
+                    <a href="https://github.com/azzyjk/React-Native/tree/master/getWeather"><img class="userPict" src="/assets/images/picture/reactNative/getWeather.png"  alt="" /></a>
                 </div>
             </div>
         </section>
@@ -69,10 +69,10 @@ comments: false
                     <h4>완료</h4>
                     <p>2020년</p>
                     <p class="title">Beautifulsoup & Selenium을 이용한 웹 크롤링</p>
-                    <a href="https://github.com/azzyjk/Crawling"><img class="userPict" src="images/picture/python/selenium.png" alt="" /></a>
+                    <a href="https://github.com/azzyjk/Crawling"><img class="userPict" src="/assets/images/picture/python/selenium.png" alt="" /></a>
                     <p>2019년</p>
                     <p class="title">OSAM CAMP '딸랑이' 개발</p>
-                    <a href="https://azzyjk.github.io/OSAM/"><img class="userPict" src="images/picture/python/osam.jpeg"  alt="" /></a>
+                    <a href="https://azzyjk.github.io/OSAM/"><img class="userPict" src="/assets/images/picture/python/osam.jpeg"  alt="" /></a>
                 </div>
             </div>
         </section>
@@ -90,16 +90,16 @@ comments: false
                     <p>2015년</p>
                     <p class="comp title">한국청소년과학창의대회(ISEF-K)</p>
                     <p class="subject"> 주제 : 딤플의 변화에 따른 기차 모형의 에너지 효율 분석</p>
-                    <img class="userPict" src="images/picture/arduino/KOFAC.gif" alt="" />
+                    <img class="userPict" src="/assets/images/picture/arduino/KOFAC.gif" alt="" />
                     <p class="comp title">부흥고등학교 - 자유탐구대회</p>
                     <p class="subject"> 주제 : 3D 프린터와 아두이노를 이용한 Quadro X copter 제작과 멀티콥터에서의 역토크의 작용</p>
-                    <img class="userPict" src="images/picture/arduino/puheung.jpg" alt="" />
+                    <img class="userPict" src="/assets/images/picture/arduino/puheung.jpg" alt="" />
                     <p> 2014년 </p>
                     <p class="title">삼성 주니어 소프트웨어 아카데미 수강</p>
-                    <img class="userPict" src="images/picture/arduino/juniorSW.jpg" alt="" />
+                    <img class="userPict" src="/assets/images/picture/arduino/juniorSW.jpg" alt="" />
                     <p class="comp title">청소년과학탐구반(YSC)</p>
                     <p class="subject"> 주제 : 딤플의 변화에 따른 기차 모형의 에너지 효율 분석</p>
-                    <img class="userPict" src="images/picture/arduino/KOFAC.gif" alt="" />
+                    <img class="userPict" src="/assets/images/picture/arduino/KOFAC.gif" alt="" />
                 </div>
             </div>
         </section>
@@ -125,7 +125,7 @@ comments: false
                 <div>
                     <p>진행중</p>
                     <p class="title">Algorithm</p>
-                    <a href="https://github.com/azzyjk/Algorithm"><img class="userPict" src="images/picture/cpp/algorithm.png" alt="" /></a>
+                    <a href="https://github.com/azzyjk/Algorithm"><img class="userPict" src="/assets/images/picture/cpp/algorithm.png" alt="" /></a>
                 </div>
             </div>
         </section>
@@ -138,7 +138,7 @@ comments: false
                 <div>
                     <p>2020년</p>
                     <p class="title">To Do List</p>
-                    <a href="https://github.com/azzyjk/WEB"><img class="userPict" src="images/picture/javascript/toDo.png" alt="" /></a>
+                    <a href="https://github.com/azzyjk/WEB"><img class="userPict" src="/assets/images/picture/javascript/toDo.png" alt="" /></a>
                 </div>
             </div>
         </section>
