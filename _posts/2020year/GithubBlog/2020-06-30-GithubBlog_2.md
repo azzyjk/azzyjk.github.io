@@ -38,9 +38,13 @@ Github blog를 만들때 나는 Jekyll에서 이미 만들어진 테마를 이�
 
 (현재 나의 테마는 [`Mediumish`](https://jekyllthemes.io/theme/mediumish)로 `Memoirs` 테마는 내가 원하는대로 syntax highlighter를 변경할 수 없는것으로 보여 변경했다.)
 
-<img class="blogPict" src="/assets/images/picture/GithubBlog/Jekyll_2.png">
+테마를 고를때 팀으로는 아래와 같이 Feature를 보면 어떤 기능이 지원되는지 나오는데 자신에게 필요한 기능이 모두 있는지 확인하고 하는 것을 추천한다.
+
+<img class="blogPict" src="/assets/images/picture/GithubBlog/Jekyll_4.png">
 
 원하는 테마를 클릭 후 Download 해준다.
+
+<img class="blogPict" src="/assets/images/picture/GithubBlog/Jekyll_2.png">
 
 ## 폴더에 테마 옮기기
 
