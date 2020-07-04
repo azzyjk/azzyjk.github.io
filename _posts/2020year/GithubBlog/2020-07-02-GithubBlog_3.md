@@ -1,10 +1,15 @@
 ---
 layout: post
-title: GitHub으로 나만의 블로그 만들기 - 3
+title: GitHub으로 나만의 블로그 만들기 3 - jekyll bundler를 이용하여 블로그 수정하기
 author: JJW
 categories: [Github]
 tags: [Blog, jekyll]
 image: assets/images/picture/GithubBlog/Githubblog_2.png
+date: 2020-07-02 12:00:00
+lastmod: 2020-07-02 12:00:00
+sitemap:
+  changefreq: daily
+  priority: 1.0
 beforetoc:
 featured:
 rating:

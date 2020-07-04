@@ -1,10 +1,15 @@
 ---
 layout: post
-title: GitHub으로 나만의 블로그 만들기 - 1
+title: GitHub으로 나만의 블로그 만들기 1 - 블로그 생성을 위한 repository 생성
 author: JJW
 categories: [Github]
 tags: [Blog, jekyll]
 image: assets/images/picture/GithubBlog/Githubblog_1.png
+date: 2020-06-29 12:00:00
+lastmod: 2020-06-29 12:00:00
+sitemap:
+  changefreq: daily
+  priority: 1.0
 beforetoc:
 featured:
 rating:
@@ -12,7 +17,7 @@ hidden:
 toc: true
 ---
 
-Github repository 생성을 통해 나만의 페이지 만들기
+Github 블로그를 위한 repository 생성
 
 # Blog를 만들게 된 계기
 

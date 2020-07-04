@@ -1,10 +1,15 @@
 ---
 layout: post
-title: GitHub으로 나만의 블로그 만들기 - 2
+title: GitHub으로 나만의 블로그 만들기 2 - Jekyll themes를 이용해 블로그 페이지 꾸미기
 author: JJW
 categories: [Github]
 tags: [Blog, jekyll]
 image: assets/images/picture/GithubBlog/Jekyll_1.png
+date: 2020-06-30 12:00:00
+lastmod: 2020-06-30 12:00:00
+sitemap:
+  changefreq: daily
+  priority: 1.0
 beforetoc:
 featured:
 rating:
