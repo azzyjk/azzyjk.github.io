@@ -141,6 +141,19 @@ ex) rougify style monokai.sublime
 1. 적용되어 있는 Syntax Highlither 파일 찾기
 1. 안에 내용을 아까 만든 `style.css`로 바꾸기
 
+## \_config.yml 수정
+
+이제 마지막 단계로 `_config.yml`파일을 수정해야 합니다.
+
+`_config.yml`파일에 아래 내용을 추가해줍니다.
+
+```sh
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+```
+
 그럼 아래와 같이 적용된 것을 볼 수 있습니다.
 
 <img class="blogPict" src="/assets/images/picture/GithubBlog/SyntaxHL_3.png">
