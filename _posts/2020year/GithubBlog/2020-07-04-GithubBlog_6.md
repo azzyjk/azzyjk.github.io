@@ -2,11 +2,11 @@
 layout: post
 title: GitHub으로 나만의 블로그 만들기 6 - Disqus를 이용하여 블로그에 댓글기능 추가하기
 author: JJW
-categories: [Github]
+categories: [Github, Disqus]
 tags: [Blog, Jekyll]
 image: assets/images/picture/GithubBlog/Disqus_9.png
 date: 2020-07-04 01:48:00
-lastmod: 2020-07-04 01:48:00
+lastmod: 2020-07-06 00:40:00
 sitemap:
   changefreq: daily
   priority: 1.0
@@ -22,6 +22,9 @@ Github blog에 disqus를 이용하여 댓글 기능 추가하기
 
 지난 글 에서는 내 블로그가 Google에서 검색되도록 해보았다.  
 이번에는 disqus를 이용하여 블로그에 댓글기능을 추가해보자.
+
+**이 글은 Disqus를 지원하는 Jekyll theme를 기준으로 작성되었다.**  
+**만약 Disqus를 지원하지 않아서 모두 추가해야 한다면 다른 글을 보는 것을 추천한다.**
 
 # Disqus
 

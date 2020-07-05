@@ -2,7 +2,7 @@
 layout: post
 title: GitHub으로 나만의 블로그 만들기 4 - 원하는 Syntax Highlighter 적용하기
 author: JJW
-categories: [Github]
+categories: [Github, Jekyll]
 tags: [Blog, Jekyll, Syntax Highlighter]
 image: assets/images/picture/GithubBlog/SyntaxHL_1.png
 date: 2020-07-02 01:00:00
