@@ -6,7 +6,7 @@ categories: [Github]
 tags: [Blog, Jekyll]
 image: assets/images/picture/GithubBlog/Jekyll_1.png
 date: 2020-06-30 12:00:00
-lastmod: 2020-06-30 12:00:00
+lastmod: 2020-07-05 12:00:00
 sitemap:
   changefreq: daily
   priority: 1.0
@@ -21,6 +21,15 @@ toc: true
 
 지난 글에서는 github에서 repository를 만들어 자신만의 페이지를 만들어 보았다.  
 이번에는 jekyll theme를 이용해 해당 페이지를 이쁘게 꾸며보자.
+
+# Ruby
+
+Jekyll theme를 이용하기전에 먼저 Ruby가 설치 되어 있어야한다.
+
+아래 주소로 들어가 루비를 설치해주자.  
+[Ruby](https://rubygems.org/pages/download)
+
+설치 후 터미널에서 `ruby --version`을 압룍햤을때 버전이 나오면 설치가 된 것이다.
 
 # Jekyll
 
