@@ -4,7 +4,7 @@ title: GitHub으로 나만의 블로그 만들기 8 - Hits를 이용해 내 글�
 author: JJW
 categories: [Github]
 tags: [Blog, Jekyll, Hits]
-image: assets/images/Picture/GithubBlog/Hits_1.png
+image: assets/images/picture/GithubBlog/Hits_1.png
 date: 2020-07-06 01:33:00
 lastmod: 2020-07-06 01:40:00
 sitemap:

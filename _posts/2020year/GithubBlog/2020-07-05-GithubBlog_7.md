@@ -4,7 +4,7 @@ title: GitHub으로 나만의 블로그 만들기 7 - Google Analytics를 이용
 author: JJW
 categories: [Github, Google Analytics]
 tags: [Blog, Jekyll, Google]
-image: assets/images/Picture/GithubBlog/GA_5.png
+image: assets/images/picture/GithubBlog/GA_5.png
 date: 2020-07-05 00:00:00
 lastmod: 2020-07-06 01:31:00
 sitemap:
