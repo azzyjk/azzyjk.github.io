@@ -73,7 +73,6 @@ layout:post
 
 ```html
 {% raw %}
-< 
 <div style="text-align: center;">
   <a href="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}" target="_blank">
     <img src="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}.svg"/>
