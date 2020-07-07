@@ -20,7 +20,7 @@ toc: true
 
 Hits를 이용하여 내 글의 조회수를 표시하기
 
-지난 글에서는 Google Analytics를 이용해 블로그 방문자 수를 확인했었다.
+지난 글에서는 Google Analytics를 이용해 블로그 방문자 수를 확인했었다.  
 이번에는 블로그에 `Hits`를 이용해 내 게시글의 조회수를 보도록 하자.
 
 # Hits!
