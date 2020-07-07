@@ -72,17 +72,14 @@ layout:post
 이후 아래의 코드를 추가해줍니다.
 
 ```html
-<
+{% raw %}
+< 
 <div style="text-align: center;">
-  <a
-    href="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}"
-    target="_blank"
-  >
-    <img
-      src="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}.svg"
-    />
+  <a href="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}" target="_blank">
+    <img src="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}.svg"/>
   </a>
 </div>
+{% endraw %}
 ```
 
 그 후 확인해보면 `Hits!`배지가 생긴걸 확인할 수 있다.
