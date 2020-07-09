@@ -74,8 +74,13 @@ layout:post
 ```html
 {% raw %}
 <div style="text-align: center;">
-  <a href="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}" target="_blank">
-    <img src="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}.svg"/>
+  <a
+    href="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}"
+    target="_blank"
+  >
+    <img
+      src="http://hits.dwyl.com/{{ site.url | remove_first: 'https://' | remove_first: 'http://' }}{{ page.url }}.svg"
+    />
   </a>
 </div>
 {% endraw %}
@@ -84,3 +89,11 @@ layout:post
 그 후 확인해보면 `Hits!`배지가 생긴걸 확인할 수 있다.
 
 <img class="blogPict" src="/assets/images/picture/GithubBlog/Hits_1.png">
+
+[Github Blog 1 - 블로그 생성을 위한 repository 생성](../GithubBlog_1)  
+[Github Blog 2 - Jekyll themes를 이용해 블로그 페이지 꾸미기](../GithubBlog_2)  
+[GitHub Blog 3 - jekyll bundler를 이용하여 블로그 수정하기](../GithubBlog_3)  
+[GitHub Blog 4 - 원하는 Syntax Highlighter 적용하기](../GithubBlog_4)  
+[GitHub Blog 5 - 구글에서 Github blog 보이도록 하기](../GithubBlog_5)  
+[GitHub Blog 6 - Disqus를 이용하여 블로그에 댓글기능 추가하기](../GithubBlog_6)  
+[GitHub Blog 7 - Google Analytics를 이용해 방문자 수 보기](../GithubBlog_7)

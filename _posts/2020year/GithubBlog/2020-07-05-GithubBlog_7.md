@@ -72,3 +72,10 @@ google_analytics: 'UA-XXXXXXXXX-1'
 이후 다시 [`Google Analytics`](https://analytics.google.com/analytics/web/)사이트에 접속하면 정보가 보이는 것을 확인할 수 있다.
 
 <img class="blogPict" src="/assets/images/picture/GithubBlog/GA_5.png">
+
+[Github Blog 1 - 블로그 생성을 위한 repository 생성](../GithubBlog_1)  
+[Github Blog 2 - Jekyll themes를 이용해 블로그 페이지 꾸미기](../GithubBlog_2)  
+[GitHub Blog 3 - jekyll bundler를 이용하여 블로그 수정하기](../GithubBlog_3)  
+[GitHub Blog 4 - 원하는 Syntax Highlighter 적용하기](../GithubBlog_4)  
+[GitHub Blog 5 - 구글에서 Github blog 보이도록 하기](../GithubBlog_5)  
+[GitHub Blog 6 - Disqus를 이용하여 블로그에 댓글기능 추가하기](../GithubBlog_6)
