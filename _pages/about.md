@@ -50,6 +50,9 @@ comments: false
                     <a href="https://github.com/azzyjk/COVID19"><img class="userPict" src="/assets/images/picture/reactNative/COVID19.png"  alt="" /></a>
                     <h4>완료</h4>
                     <p>2020년</p>
+                    <p class="title">제3회 정부혁신제안 끝장개발대회</p>
+                    <p class="subject"> '미세먼지 생활수칙 준수를 위한 홈 IoT' 앱 파트 담당 </p>
+                    <a href="https://github.com/azzyjk/GovermentHackerton"><img class="userPict" src="/assets/images/picture/reactNative/GovermentHackerton.jpg"  alt="" /></a>
                     <p class="title">To Do List 앱 제작</p>
                     <a href="https://github.com/azzyjk/React-Native/tree/master/TodoList"><img class="userPict" src="/assets/images/picture/reactNative/toDo.png"  alt="" /></a>
                     <p class="title">Get Weather 앱 제작</p>
@@ -71,7 +74,8 @@ comments: false
                     <p class="title">Beautifulsoup & Selenium을 이용한 웹 크롤링</p>
                     <a href="https://github.com/azzyjk/Crawling"><img class="userPict" src="/assets/images/picture/python/selenium.png" alt="" /></a>
                     <p>2019년</p>
-                    <p class="title">OSAM CAMP '딸랑이' 개발</p>
+                    <p class="title">OSAM CAMP</p>
+                    <p class="subject">'딸랑이' 개발</p>
                     <a href="https://azzyjk.github.io/OSAM/"><img class="userPict" src="/assets/images/picture/python/osam.jpeg"  alt="" /></a>
                 </div>
             </div>
