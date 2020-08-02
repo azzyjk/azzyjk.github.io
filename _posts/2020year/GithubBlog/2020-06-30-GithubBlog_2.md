@@ -81,10 +81,10 @@ bundle install
 
 ## config.yml 수정
 
-이후 `_config.yml` 파일에서 baseurl부분을 수정해준다.
+이후 `_config.yml` 파일에서 `url`부분을 수정해준다.
 
 ```sh
-baseurl: '해당 repository 이름' ex) 'https://azzyjk.github.io'
+url: 'https://해당 repository 이름' ex) 'https://azzyjk.github.io'
 ```
 
 # Github
