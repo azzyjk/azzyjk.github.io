@@ -30,7 +30,7 @@ comments: false
             <li class="icon solid"><a href="#JS"><img class="userIcon" src="/assets/images/picture/javascript/javascript.png"> Javascript</a></li>
             <li class="icon solid"><a href="#deeplearning"><img class="userIcon" src="/assets/images/picture/DeepLearning/DeepLearning.png"> DeepLearning</a></li>
         </ul>
-        <p>저는 위와 같은 프로그래밍 언어의 관심이 있습니다.</p>
+        <p>저는 위와 같은 프로그래밍 언어 및 분야에 관심이 있습니다.</p>
     </div>
 </section>  
 <section class="userMade">
