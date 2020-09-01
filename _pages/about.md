@@ -28,6 +28,7 @@ comments: false
             <li class="icon solid"><a href="#C"><img class="userIcon" src="/assets/images/picture/c/c.png">C</a></li>
             <li class="icon solid"><a href="#C++"><img class="userIcon" src="/assets/images/picture/cpp/cpp.png"> C++</a></li>
             <li class="icon solid"><a href="#JS"><img class="userIcon" src="/assets/images/picture/javascript/javascript.png"> Javascript</a></li>
+            <li class="icon solid"><a href="#deeplearning"><img class="userIcon" src="/assets/images/picture/deeplearning/DeepLearning.png"> DeepLearning</a></li>
         </ul>
         <p>저는 위와 같은 프로그래밍 언어의 관심이 있습니다.</p>
     </div>
@@ -143,6 +144,20 @@ comments: false
                     <p>2020년</p>
                     <p class="title">To Do List</p>
                     <a href="https://github.com/azzyjk/WEB"><img class="userPict" src="/assets/images/picture/javascript/toDo.png" alt="" /></a>
+                </div>
+            </div>
+        </section>
+        <!-- Section -->
+        <section id="deeplearning">
+            <header>
+                <h3>Deep Learning</h3>
+            </header>
+            <div class="content">
+                <div>
+                    <h4>완료</h4>
+                    <p>2020년</p>
+                    <p class="title">Naver AI Rush 대회 참여</p>
+                    <a href="https://azzyjk.github.io/NaverAIRush/"><img class="userPict" src="/assets/images/picture/DeepLearning/NaverAIRush.png" alt="" /></a>
                 </div>
             </div>
         </section>
