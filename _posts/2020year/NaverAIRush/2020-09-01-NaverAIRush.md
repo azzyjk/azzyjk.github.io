@@ -19,7 +19,7 @@ toc: true
 
 2020.07.13 ~ 2020.08.29 까지 진행한 Naver AI Rush에 관련된 후기
 
-https://campaign.naver.com/airush/
+[Naver AI Rush](https://campaign.naver.com/airush/)
 
 # Naver AI Rush
 
@@ -105,7 +105,7 @@ Baseline 코드는 Pytorch로 짜여진 코드가 주어졌다.
 
 나는 스팸 메일 분류를 맡았고 팀원은 이상치 탐지를 맡았다.
 
-결과는 이상치 탐지 4등, 스팸 메일 분류 5등을 해서 되게 아쉬웠다.
+결과는 이상치 탐지 `4등`, 스팸 메일 분류 `5등`을 해서 되게 아쉬웠다.
 
 <img class="blogPict" src="/assets/images/picture/NaverAIRush/Anormal.png">
 
