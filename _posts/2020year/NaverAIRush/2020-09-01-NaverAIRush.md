@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2020 Naver AI Rush 참가 후기
+title: 2020 Naver AI Rush 후기
 author: JJW
 categories: [Deep Learning, Naver, NLP]
 tags: []
