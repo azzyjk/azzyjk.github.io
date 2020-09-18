@@ -17,13 +17,13 @@ hidden:
 toc: true
 ---
 
-Github 원하는 Repository Fork하는 방법
+원하는 Repository Fork하는 방법
 
 # Github Fork란
 
 오픈소스를 다운받아서 단지 사용할만 때는 해당 Repository를 `Clone`해와서 사용해도 된다.
 
-하지만 해당 코드를 다운받아서 수정해서 원작자에게 원본 Code 수정을 요청하려면 `Fork`를 이용해야 한다.
+하지만 해당 코드를 다운받아서 수정해서 원작자에게 원본 Code 수정을 요청 즉, `Pull request`를 하려면 `Fork`를 이용해야 한다.
 
 `Fork`는 다른사람의 Repository를 자신의 Repository로 복사하는 것이다.
 
