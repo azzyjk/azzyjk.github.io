@@ -46,9 +46,9 @@ comments: false
             <div class="content">
                 <div>
                     <!-- <h4>진행중</h4> -->
-                    <h4>진행중</h4>
+                    <!-- <h4>진행중</h4>
                     <p class="title">코로나 알리미 앱 제작</p>
-                    <a href="https://github.com/azzyjk/COVID19"><img class="userPict" src="/assets/images/picture/reactNative/COVID19.png"  alt="" /></a>
+                    <a href="https://github.com/azzyjk/COVID19"><img class="userPict" src="/assets/images/picture/reactNative/COVID19.png"  alt="" /></a> -->
                     <h4>완료</h4>
                     <p>2020년</p>
                     <p class="title">제3회 정부혁신제안 끝장개발대회</p>
@@ -68,8 +68,8 @@ comments: false
             </header>
             <div class="content">
                 <div>
-                    <h4>진행중</h4>
-                    <p class="title">유튜브 코멘트 크롤링 및 자연어처리(NLP)를 통한 긍정 부정 반응 분석</p>
+                    <!-- <h4>진행중</h4>
+                    <p class="title">유튜브 코멘트 크롤링 및 자연어처리(NLP)를 통한 긍정 부정 반응 분석</p> -->
                     <h4>완료</h4>
                     <p>2020년</p>
                     <p class="title">Beautifulsoup & Selenium을 이용한 웹 크롤링</p>
@@ -155,6 +155,9 @@ comments: false
             <div class="content">
                 <div>
                     <h4>완료</h4>
+                    <p>2021년</p>
+                    <p class="title">Clova AI Rush 대회 참여</p>
+                    <!-- <a href="https://azzyjk.github.io/NaverAIRush/"><img class="userPict" src="/assets/images/picture/DeepLearning/NaverAIRush.png" alt="" /></a> -->
                     <p>2020년</p>
                     <p class="title">Naver AI Rush 대회 참여</p>
                     <a href="https://azzyjk.github.io/NaverAIRush/"><img class="userPict" src="/assets/images/picture/DeepLearning/NaverAIRush.png" alt="" /></a>
